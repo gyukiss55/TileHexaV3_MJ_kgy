@@ -30,8 +30,8 @@ const float baseR = R * 8.5f;     // The total radius of the whole board (from c
 const float drawR = R * 0.99f;    // 1% gap
 const float sx = sqrtf(3.0f) * R;
 const float sy = 1.5f * R;
-constexpr int WINDOW_W = 800;
-constexpr int WINDOW_H = 600;
+constexpr int WINDOW_W = 1600;
+constexpr int WINDOW_H = 1200;
 
 // Cell descriptor and enums are defined in TileSolver.h
 GLuint FONT_BASE = 0;   // bitmap-font display-list base; set after GL context is created
