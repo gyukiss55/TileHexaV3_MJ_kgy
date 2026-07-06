@@ -2,6 +2,10 @@
 TileHexaV3 made by János Maros, remake
 https://github.com/jmaros/TileHexaV3
 
+To get started, you need to install vcpkg and run the following command in the project directory:
+run -> \_git\TileHexaV3_MJ_kgy\makebuild.bat
+open -> \_git\TileHexaV3_MJ_kgy\build\MyGLFWApp.sln (VS2022)
+
 _git\TileHexaV43>vcpkg list
 egl-registry:x64-windows                          2025-05-27          EGL API and Extension Registry
 egl-registry:x64-windows-static                   2025-05-27          EGL API and Extension Registry
