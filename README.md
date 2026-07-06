@@ -2,6 +2,9 @@
 TileHexaV3 made by János Maros, remake
 https://github.com/jmaros/TileHexaV3
 
+![Screenshot](images/TileHexa1.jpg)
+![Screenshot](images/TileHexa2.jpg)
+
 To get started, you need to install vcpkg and run the following command in the project directory:
  - run -> \_git\TileHexaV3_MJ_kgy\makebuild.bat
  - open -> \_git\TileHexaV3_MJ_kgy\build\MyGLFWApp.sln (VS2022)
